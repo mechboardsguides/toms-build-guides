@@ -14,7 +14,7 @@ IsoBig https://imgur.com/a/yUpOR6v
 
 Pockettype https://docs.google.com/document/d/1vCPjysYOdOVXL8rGmI-F3Y1QjgGh5yW5mkr9LpOqNkI/edit
 
-Generic plate case https://docs.google.com/document/d/1vCPjysYOdOVXL8rGmI-F3Y1QjgGh5yW5mkr9LpOqNkI/edit
+Generic plate case https://docs.google.com/document/d/1mWNv5yd_2Z8kpUtVhdh1QWbIfF49K560OP0hetOELCU/edit
 
 Pimoroni trackball https://docs.google.com/document/d/1zd0cq2neYuhGEiuR2CMdrmjhXXlxMg4HoseZhl9AP9s/edit
 
