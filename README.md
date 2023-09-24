@@ -19,3 +19,5 @@ Generic plate case https://docs.google.com/document/d/1mWNv5yd_2Z8kpUtVhdh1QWbIf
 Pimoroni trackball https://docs.google.com/document/d/1zd0cq2neYuhGEiuR2CMdrmjhXXlxMg4HoseZhl9AP9s/edit
 
 VUSB bootloader https://docs.google.com/document/d/1f5sS7QBaNn_NseunpxUSlT5rSZo2DhrCcv0pXPtK2PY/edit
+
+Env65kb mbuk edition https://docs.google.com/document/d/1bc60i3B1gA8Tts-7HoyvGhPZEXRoFb5MHVmnn4CmXiw/edit?usp=sharing
